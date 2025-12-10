@@ -1,0 +1,17 @@
+
+> js-merge-users-lab@1.0.0 test
+> jest
+
+PASS test/index.test.js
+  combineUsers function return
+    ✓ should be an object (2 ms)
+    ✓ should have the properties users and merge_date (1 ms)
+  combineUsers function
+    ✓ should merge all given arrays (1 ms)
+    ✓ should contain todays date
+
+Test Suites: 1 passed, 1 total
+Tests:       4 passed, 4 total
+Snapshots:   0 total
+Time:        0.151 s, estimated 1 s
+Ran all test suites.
